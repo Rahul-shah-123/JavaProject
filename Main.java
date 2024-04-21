@@ -9,5 +9,7 @@ public class Main {
        System.out.println("My name is rahul");
        System.out.println("Hell");
        System.out.println("sakshi ");
+       Student student = new Student();
+       student.sayhello();
     }
 }
